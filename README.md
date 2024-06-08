@@ -30,4 +30,10 @@ visualizações.
 
 # Funcoes DAX
 
+O QUE É DAX?
+---
+DAX é uma coleção de funções, operadores e constantes que podem ser
+usados em uma fórmula, ou expressão, para calcular e retornar um ou mais
+valores. Resumindo, o DAX ajuda você a criar novas informações de dados já
+presentes em seu modelo.
 
