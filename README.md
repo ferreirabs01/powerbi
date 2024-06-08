@@ -25,7 +25,7 @@ dando-nos controle total sobre o processo de transformação.
 errado. O Power BI Desktop inclui a ferramenta Power Query Editor, que pode ajudálo
 a moldar e transformar dados para que estejam prontos para seus modelos e
 visualizações.
-![alt text](image.png)
+![alt text](./img/image1.png)
 
 
 # Funcoes DAX
